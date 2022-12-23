@@ -1,1 +1,1 @@
-# laba3
+# lab3_zad1
